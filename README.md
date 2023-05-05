@@ -8,3 +8,23 @@ This analysis found that the best k value for the data was 4 clusters when using
 
 <br>
 
+# Technology Used
+
+<br>
+
+This challenge required: 
+
+### Unsupervised Machine Learning Tools: 
+1. Scikit-learn Library
+2. StandardScaler Algorithm
+3. KMeans Algorithm
+4. Clustering 
+5. Principal Component Analysis
+6. Elbow Method
+
+### Python
+1. Pandas
+2. Numpy
+
+### Visualizations 
+1. HvPlot
